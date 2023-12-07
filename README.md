@@ -7,7 +7,7 @@ Check the validity of random 2-letter Discord invite links using this Python scr
 - Generates random 2-letter invite codes
 - Checks the validity using the Discord API
 - Simple and easy-to-understand Python code
-
+- Sends the Available and Unavailble links to a webhook
 ## Usage
 
 1. Clone the repository:
