@@ -2,6 +2,8 @@
 
 Check the validity of random 2-letter Discord invite links using this Python script. The script generates random codes and utilizes the Discord API to verify their status.
 
+![image](https://github.com/xHERMIS/Discord-custom-link-checker/assets/104696522/66af3174-5584-4444-a96b-fa1c30b89c17)
+
 ## Features
 
 - Generates random 2-letter invite codes
