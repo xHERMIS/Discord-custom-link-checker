@@ -12,5 +12,7 @@ Check the validity of random 2-letter Discord invite links using this Python scr
 
 1. Clone the repository:
 
-```git clone https://github.com/xHERMIS/Discord-custom-link-checker.git```
+```
+git clone https://github.com/xHERMIS/Discord-custom-link-checker.git
+```
 
