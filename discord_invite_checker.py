@@ -31,7 +31,7 @@ def check_invite_validity(invite_code, webhook_url):
 def send_result_to_discord(result, webhook_url):
     embed_data = {
         "title": "Discord Invite Checker Results",
-        "description": result,
+        "description": f"{result}\n\nMade by <@199591009384923136>",
         "color": 16711680 if "🔴" in result else 65280,  # Red or Green color based on result
     }
 
